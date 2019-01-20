@@ -1,0 +1,8 @@
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.pdb
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csprojResolveAssemblyReference.cache
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Form1.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Properties.Resources.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.GenerateResource.Cache
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.exe
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.pdb
